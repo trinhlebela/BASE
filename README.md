@@ -1,5 +1,3 @@
 # BASE
 fd
-dfs
-d
-fsd
+dfon
